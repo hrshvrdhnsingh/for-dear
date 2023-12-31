@@ -77,4 +77,7 @@ span{
     .image-holder{
         width: 70vw; 
     }
+    .desc{
+        height: 30vh;
+    }
 }
