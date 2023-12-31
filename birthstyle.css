@@ -75,6 +75,6 @@ span{
 }
 @media screen and (max-width:660px) and (max-height:900px){
     .image-holder{
-        width: 70vw; height: 70vh;
+        width: 70vw; height: 64vh;
     }
 }
