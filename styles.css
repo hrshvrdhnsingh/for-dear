@@ -42,6 +42,9 @@ img{
     border-radius: 30px;
 }
 @media screen and (max-width: 650px){
+    .container{
+        width: 85vw;
+    }
     .container h1{
         font-size: 4rem;
     }
@@ -52,7 +55,7 @@ img{
         align-items: center;
     }
     .card{
-        width: 70vw;
+        width: 74vw;
         height: 60vw;
         margin-bottom: 7%;
     }
@@ -74,7 +77,7 @@ img{
 }
 .card:hover{
     transform: scale(1.03);
-    filter:drop-shadow(10px 10px 10px #f607d2);
+    filter:drop-shadow(10px 10px 10px #bc60ae);
     transition:0.3s;
     animation: tilt-n-move-shaking 1.2s;
 }
